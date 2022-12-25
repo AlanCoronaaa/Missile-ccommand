@@ -1,8 +1,8 @@
 import pygame
-#from pygame.locals import *
-#import os
+from pygame.locals import *
+import os
 import random
-#import math
+import math
 import time
 
 from config import *
@@ -13,7 +13,6 @@ from explosion import Explosion
 from defence import Defence
 from mcgame import McGame
 from text import InputBox
-
 
 # Initialize game engine, screen and clock
 pygame.init()
