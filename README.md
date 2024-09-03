@@ -2,15 +2,11 @@
 
 ## Description
 
-Missile command was the first game I've ever played in my life.
-This was in 1989 on Atari 800XL home computer my father bought the same year.
 
 Atari 当たり [hiragana: アタリ] in Japanese means: 
 "Hit" , "strike" or "to be right".
 
 The game was on a cartridge (i'm sure today's kids don't know what is that!), I put it in the slot, and boom the game is on the TV ready to be played.
-This is an attempt to recreate the game after 32 years using Python programming language.
-This was not easy to recreate and I had to look up a lot of the logic on internet.
 
 
 ## Story
